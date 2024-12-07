@@ -1,6 +1,11 @@
 import { useState } from 'react'
-import Grid1 from './Grid1'
-import './assets/Grid1.css'
+// import Grid1 from './Grid1'
+// import Grid2 from './Grid2'
+import Grid3 from './Grid3'
+// import './assets/Grid1.css'
+// import './assets/Grid2.css'
+import './assets/Grid3.css'
+
 import './App.css'
 
 function App() {
@@ -8,7 +13,7 @@ function App() {
 
   return (
     <>
-      <Grid1 />
+      <Grid3 />
     </>
   )
 }

@@ -21,12 +21,3 @@ body {
 background: linear-gradient(lightblue, darkblue);
 height: 100vh;
 }
-
-.beginner {
-    height: 90vh;
-    width: 90%;
-    margin: 20px auto;  /* margin top bottom 20px , left and right auto  */
-    display: grid;
-    grid-template-rows: auto 1fr auto;
-    gap: 20px;
-}
